@@ -6,46 +6,46 @@
 
 #### User Path
 
-- chrome.exe
+chrome.exe
 
     ch.lnk
 
-- firefox.exe
+firefox.exe
 
     fi.lnk
 
-- edge.exe
+edge.exe
 
     ed.lnk
 
-- putty.exe
+putty.exe
 
     pu.lnk
 
-- notepad.exe
+notepad.exe
 
     no.lnk
 
-- sublime.exe
+sublime.exe
 
     su.lnk
 
-- Server Manager
+Server Manager
 
     manager
 
-- winword.exe
+winword.exe
 
     wo.lnk
 
-- excel.exe
+excel.exe
 
     xls.lnk
 
-- powerpnt.exe
+powerpnt.exe
 
     pnt.lnk
 
-- C:\Windows\System32\appwiz.cpl 
+C:\Windows\System32\appwiz.cpl 
 
     app.lnk
