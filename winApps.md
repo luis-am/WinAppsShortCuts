@@ -1,23 +1,47 @@
 # NOTAS GENERALES
 
-#### Ruta de las aplicaciones -> 
+#### Ruta de las aplicaciones
 
     shell:appsfolder
 
 #### User Path
 
-- chrome.exe --> ch
+- chrome.exe
 
-- firefox.exe --> fi
+    ch.lnk
 
-- edge.exe --> ed
+- firefox.exe
 
-- putty.exe --> pu
+    fi.lnk
 
-- notepad.exe --> no
+- edge.exe
 
-- sublime.exe --> su
+    ed.lnk
 
-- Server Manager --> manager
+- putty.exe
 
-- 
+    pu.lnk
+
+- notepad.exe
+
+    no.lnk
+
+- sublime.exe
+
+    su.lnk
+
+- Server Manager
+
+    manager
+
+- winword.exe
+
+    wo.lnk
+
+- excel.exe
+
+    xls.lnk
+
+- powerpnt.exe
+
+    pnt.lnk
