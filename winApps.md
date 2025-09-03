@@ -45,3 +45,7 @@
 - powerpnt.exe
 
     pnt.lnk
+
+- C:\Windows\System32\appwiz.cpl 
+
+    app.lnk
